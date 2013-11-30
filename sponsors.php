@@ -183,7 +183,7 @@
                         </tr>
                         <tr>
                             <td>booth location</td>
-                            <td>greastest traffic area</td>
+                            <td>greatest traffic area</td>
                             <td>&nbsp</td>
                             <td>great traffic area</td>
                             <td>good traffic area</td>

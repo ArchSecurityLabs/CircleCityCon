@@ -2,7 +2,7 @@
 						<a name="t-shirtDesign"></a>
 						<h2>.:t-shirt contest:.</h2>
 						<p>
-							t-shirt design contest now open. 
+							t-shirt design contest is open now until January 31st, 2014. 
 						</p>
 						<p>
 							<h3>.:the details:.</h3>

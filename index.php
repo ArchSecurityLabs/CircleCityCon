@@ -128,7 +128,7 @@ It will be an extremely eventful experience.
 
                 <div><h3>.:contests:.</h3></div>
 
-                    <div><a href="events.php">t-shirt art: Now!</a></div>
+                    <div><a href="events.php">t-shirt art: Now! until January 31st, 2014</a></div>
                     <br />
                 </div>
             </div>
