@@ -3,9 +3,9 @@
 <h2>.:crash and compile:.</h2>
 <h3>.:what?:.</h3>
 <p>
-    You may have seen this at DefCon. Crash and Compile is programming contest that involves booze. It is an ACM-style programming contest meshed together with a drinking game. 
+    You may have seen this at DefCon. Crash and Compile is a programming contest that involves booze. It is an ACM-style programming contest meshed together with a drinking game. 
     <br />
-    There will be teams of 1-2 people show up with their dev environment of choice, grab a drink and a programming problem, and start coding.
+    There will be teams of 1-2 people that should show up with their dev environment of choice, grab a drink and a programming problem, and start coding.
     <br />
 </p>
 <h3>.:how do you play:.</h3>
@@ -18,7 +18,7 @@
 <li>The first team to successfully produce the right output gets 3 points. Everyone still working drinks.</li>
 <li>The second team to successfully produce the right output gets 2 points. Everyone still working drinks.</li>
 <li>The third team to successfully produce the right output gets 1 point. Everyone still working drinks.</li>
-<li>The winner is the team who is the most smashed at the end of the night. We might also hand out a few prizes to the nerds who can actually write code too.</li>
+<li>The winner is the team that is the most smashed at the end of the night. We might also hand out a few prizes to the nerds who can actually write code too.</li>
 
 <li>Programs can be written in any language and platform that can produce the appropriate output (usually just text.) I've seen people WIN using nothing but a compiler on old school Palm Pilot, writing code in Graffiti.</li>
 </ul>
