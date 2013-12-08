@@ -13,9 +13,9 @@
 								<li>we retain the right to disqualify anyone at anytime, for any reason, (but shouldn't need to)</li>
 								<li>winners will be judged by the submission committee</li>
 								<li>one winner will be selected, and provided with one artist badge, regular attendee gear, and a shirt, no travel expenses will be reimbursed</li>
-								<li>if is a tie, both winners will be selected, and then provided with an artist badge</li>
+								<li>if there is a tie, both winners will be selected, and then provided with an artist badge</li>
 								<li>we will display all submissions on this page when the contest ends</li>
-								<li>contest begins now through.... end of January?, then the winner(s) will be notified the following week</li>
+								<li>contest begins now through the end of January, then the winner(s) will be notified the following week</li>
 								<li>Good luck</li>
 							</ul>
 						</div>
@@ -42,7 +42,7 @@
 										<li>http://photobucket.com/</li>
 									</ul>
 									</li>
-									<li>the winning design will wind up on a t-shirt</li>
+									<li>the winning design will end up on a t-shirt</li>
 								</ul>
 							</div>
 						</p>
