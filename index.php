@@ -69,9 +69,9 @@
             </p>
             <p>
                
-                     It is a small to medium sized venue located in the heart of Indianapolis. The venue itself is located within walking distance of numerous food, and bar establishments. 
+                     It is in a small to medium sized venue located in the heart of Indianapolis. The venue itself is within walking distance of numerous food and bar establishments. 
 
-We will have two large tracks, events throughout the conference from early morning until late in the night. This gives attendees many different options a this con.
+We will have two large tracks, as well as events throughout the conference from early morning until late in the night. This gives the con attendees many different options.
 
 It will be an extremely eventful experience.
                 
@@ -117,11 +117,11 @@ It will be an extremely eventful experience.
                 <div>
                 <h3>.:room block:.</h3>
                 <div>
-                    You can get your room block <a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=10847722 " title="room block">here</a> for June 12-15, 2014.
+                    You can get your room block <a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=10847722" title="room block">here</a> for June 12-15, 2014.
                     <br />
                     block rate: $139.00
                     <br /><br />
-                    <a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=10847722 " title="room block">CLICK HERE</a>
+                    <a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=10847722" title="room block">CLICK HERE</a>
                     <br /><br />
                 </div>
                 </div>

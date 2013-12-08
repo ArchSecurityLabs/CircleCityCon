@@ -33,7 +33,7 @@
 
             <p>
 
-                <a href="index.html" title="home">home</a> > location
+                <a href="index.html" title="home">home</a> &gt; location
 
             </p>
 
@@ -67,9 +67,9 @@
 					<a name="#locationInformation"></a>
 					<h2>.:hotel info:.</h2>
 					<p>
-						The conference will be held at the beautiful Hyatt Regency, located in downtown indianapolis. This hotel is located well within walking distance of numerous resturants, and bars.<br />
-						Inside the hotel there are also a few restaurants, a bar, Starbucks, and a couple fast food places.<br />
-						The hotel is also connected via a covered walk way to the Circle Center Mall (<a href="http://www.simon.com/mall/circle-centre" title="Circle Center Mall">found here</a>).
+						The conference will be held at the beautiful Hyatt Regency, located in downtown Indianapolis. This hotel is well within walking distance of numerous restaurants and bars.<br />
+						Inside the hotel there are also a few restaurants, a bar, Starbucks, and a couple of fast food places.<br />
+						Additionally, the hotel is connected via a covered walkway to the Circle Center Mall (<a href="http://www.simon.com/mall/circle-centre" title="Circle Center Mall">found here</a>).
 					</p>
 					<br/><br />
 					<a name="#hotelReservation"></a>
@@ -84,7 +84,7 @@
 					<a name="#hotelGroupRate"></a>
 					<h2>.:group rate:.</h2>
 					<p>
-                        You can get your room block <a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=10847722 " title="room block">here</a> for June 12-15, 2014.
+                        You can get your room block <a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=10847722" title="room block">here</a> for June 12-15, 2014.
                     <br />
                     block rate: $139.00
                     <br /><br />
@@ -104,7 +104,7 @@
 					<h2>.:con floorplan**:.</h2>
 					<p>** this is not the final plan, and this is a preliminary floor layout</p>
 					<p>
-						Below is the an expected layout plan of the hyatt second floor. The dark retangles are possible vendor/sponsor tables.  
+						Below is the expected layout plan of the hyatt second floor. The dark retangles are possible vendor/sponsor tables.  
 						<br />
 						<a href="/images/HyattSecondFloorPlanEdited.png" target="_blank"><img src="images/HyattSecondFloorPlanShrink.png" title="Floor Plan" Alt="Hyatt Regency Second Floor Layout" width="100%"></a>
 						<br /><br />
@@ -139,7 +139,7 @@
                             <p>
                                 Megabus - this drops off a few short blocks from the hotel, <a href="http://www.megabus.com/" title="MegaBus">here</a> (http://www.megabus.com).
 								<br />
-                                Grey hound - drops off a few short blocks from the hotel, <a href="http://www.greyhound.com/" title="Greyhound">here</a> (http://www.greyhound.com/).
+                                Greyhound - drops off a few short blocks from the hotel, <a href="http://www.greyhound.com/" title="Greyhound">here</a> (http://www.greyhound.com/).
                                 <br />
                             </p> 
                                 <h3>.:train:.</h3>
@@ -151,7 +151,7 @@
 					<div class="boxedContent">
 					<p>
 						<ul>
-							<li>from the airport - There are taxi services waiting once you walk out of the return baggage doors. The estimated taxi cost is $30-40 per trip. GoExpress Shuttle can run you approximately $10, but early reservations can be made <a href="http://goexpresstravel.com/indy_express" title="GoExpress">here</a> (http://goexpresstravel.com/indy_express). Finally, you could also preschedule pick up with Carey Limousine Service which will cost ~$16.00 per trip plus gratuity, make that resersation at (317) 241-7100.</li>
+							<li>from the airport - There are taxi services waiting once you walk out of the return baggage doors. The estimated taxi cost is $30-40 per trip. GoExpress Shuttle can run you approximately $10, but early reservations can be made <a href="http://goexpresstravel.com/indy_express" title="GoExpress">here</a> (http://goexpresstravel.com/indy_express). Finally, you could also preschedule pick up with Carey Limousine Service which will cost ~$16.00 per trip plus gratuity, make that reservation at (317) 241-7100.</li>
 							<li>taxi - All cabs are required to have credit card machines available, they might prefer cash, but they can take credit. There is a customer bill of rights located on each cab window.</li>
 							<li>bus system - It's available, but you'll have to do some leg work on this, <a href="http://www.indygo.net/" title="IndyGO">here</a> (http://www.indygo.net/)</li>
 						</ul>

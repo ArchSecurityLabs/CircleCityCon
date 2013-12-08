@@ -20,7 +20,7 @@
 
                 <p>
 
-                    <a href="index.php" title="home">home</a> > speakers
+                    <a href="index.php" title="home">home</a> &gt; speakers
 
                 </p>
 
@@ -34,7 +34,7 @@
 
             <div id="bodyContent">
                 <p>
-                    As the CFP process moves on, we will updating this page with speakers.
+                    As the CFP process moves on, we will be updating this page with speakers.
                 </p>
                 
             </div>

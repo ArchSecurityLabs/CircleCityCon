@@ -20,7 +20,7 @@
 
                 <p>
 
-                    <a href="index.php" title="home">home</a> > events
+                    <a href="index.php" title="home">home</a> &gt; events
 
                 </p>
 

@@ -36,7 +36,7 @@
 
                 <h3>.:mission:.</h3>
                 <p>
-                    the main goal of this conference is to educate, and expect peoples knowledge. 
+                    the main goal of this conference is to educate and expand people's knowledge. 
 
                     <br />
 

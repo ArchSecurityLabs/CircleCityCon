@@ -20,7 +20,7 @@
 
                 <p>
 
-                    <a href="index.php" title="home">home</a> > tickets
+                    <a href="index.php" title="home">home</a> &gt; tickets
 
                 </p>
 
@@ -36,11 +36,11 @@
 
                 <h2>.:ticket information:.</h2>
                 <p>
-                    a limited number of early ticket sales go on sale nov 1, 2013.
+                    a limited number of early tickets go on sale nov 1, 2013.
                     
                     <br />
 
-                    these limited number of tickets will be available until they run out.
+                    these early tickets will be available until they run out.
 
                     <br />
 
@@ -77,11 +77,11 @@
                 <div>
                 <h3>.:room block:.</h3>
                 <p>
-                    You can get your room block <a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=10847722 " title="room block">here</a> for June 12-15, 2014.
+                    You can get your room block <a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=10847722" title="room block">here</a> for June 12-15, 2014.
                     <br /><br />
                     block rate: $139.00
                     <br /><br />
-                    <a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=10847722 " title="room block">CLICK HERE</a>
+                    <a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=10847722" title="room block">CLICK HERE</a>
                 </p>
                 </div>
             </div>
