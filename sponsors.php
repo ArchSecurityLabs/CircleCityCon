@@ -32,7 +32,7 @@
 
                 <p>
 
-                    <a href="index.php" title="home">home</a> > sponsors
+                    <a href="index.php" title="home">home</a> &gt; sponsors
 
                 </p>
 
@@ -54,10 +54,10 @@
 
 					  </p>
 					<p>
-						we are currenting working out the specifics details relating to the sponsorship process.
+						we are currenting working out the specific details relating to the sponsorship process.
 
 						<br /><br />
-						if you have any questiosn please contact: sponsors [AT] circlecitycon [D0T] com
+						if you have any questions please contact: sponsors [AT] circlecitycon [D0T] com
 					</p>
 					</div>
 					<p>
@@ -94,7 +94,7 @@
                             <td>$1,500.00</td>
                         </tr>
                         <tr>
-                            <td>your company can provide custom flyer, and/or item for attendees bag**</td>
+                            <td>your company can provide custom flyer and/or item for attendee bags**</td>
                             <td>yes</td>
                             <td>yes</td>
                             <td>yes</td>
@@ -118,7 +118,7 @@
                             <td>&nbsp</td>
                         </tr>
                         <tr>
-                            <td>company mention at open ceremony</td>
+                            <td>company mention at opening ceremony</td>
                             <td>yes</td>
                             <td>yes</td>
                             <td>&nbsp</td>
@@ -203,7 +203,7 @@
 					<h2>.:con floorplan**:.</h2>
 					<p>** this is not the final plan, and this is a preliminary floor layout</p>
 					<p>
-						Below is the an expected layout plan of the hyatt second floor. The dark retangles are possible vendor/sponsor tables.  
+						Below is the expected layout plan of the hyatt second floor. The dark retangles are possible vendor/sponsor tables.  
 						<br />
 						<a href="/images/HyattSecondFloorPlanEdited.png" target="_blank"><img src="images/HyattSecondFloorPlanShrink.png" title="Floor Plan" Alt="Hyatt Regency Second Floor Layout"></a>
 						<br />
@@ -223,7 +223,7 @@
 					</p>
                     <p>
                     <br /><br />
-						if you have any questiosn please contact: sponsors [AT] circlecitycon [D0T] com
+						if you have any questions please contact: sponsors [AT] circlecitycon [D0T] com
 					</p>
             </div><!-- simpleTableWrapper -->
         </div><!-- end bodyContent div -->
