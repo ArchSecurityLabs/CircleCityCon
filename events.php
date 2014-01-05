@@ -43,6 +43,7 @@
                         <li><a href="#schemaverse" title="Schemaverse">schemaverse</a></li>
                         <li><a href="#drunktalks" title="Drunk Talks">drunk talks</a></li>
                         <li><a href="#crashandcompile" title="Crash and Compile">crash and compile</a></li>
+                        <li><a href="#trainings" title="Trainings">training</a></li>
    					</ul>
 				</div>
 				<div class="rightSidedColumn">
@@ -58,6 +59,9 @@
                     <?php include "includes/events/drunktalks.php"; ?>
 
                     <?php include "includes/events/crashandcompile.php"?>
+                                                
+                    <?php include "includes/events/training.php"?>
+                                                
 						</div>
 					</div>
 				<div class="simpleTableWrapper">
