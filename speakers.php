@@ -220,10 +220,10 @@
                 <br />
 
                 <p>
-                    Title: Eyes on IZON: Surveilling IP Camera Security
-                    First Name: Mark
-                    Last Name: Stanislav
-                    Organization: Duo Security
+                    Title: Eyes on IZON: Surveilling IP Camera Security <br />
+                    First Name: Mark <br />
+                    Last Name: Stanislav <br />
+                    Organization: Duo Security <br />
                 </p>
                 <p>
                     Home IP cameras are becoming increasingly common thanks to sleek

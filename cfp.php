@@ -46,8 +46,9 @@
                     <ul>
                         <li><b>Call for Papers Opens:</b> November 1st, 2013</li>
                         <li><b>Round 1 Notifications:</b> December 25th, 2013</li>
-                        <li><b>Call for Papers Closes:</b> January 31st, 2014</li>
-                        <li><b>Final Author Notifications:</b> February 28th, 2014</li>
+                        <li><b>(*)Round 2 Notifications:</b> Early February, 2014</li>
+                        <li><b>Call for Papers Closes:</b> March 31st, 2014 <strike>January 31st, 2014</strike></li>
+                        <li><b>Final Author Notifications:</b> Early April 2014 <strike>February 28th, 2014</strike> </li>
                         <li><b>Circle City Con:</b> Jun 13, 2014 - Jun 15, 2014</li>
                     </ul>
                 </div>
