@@ -64,37 +64,7 @@
                                                 
 						</div>
 					</div>
-				<div class="simpleTableWrapper">
-                <div class="simpleTable">
-                    <h3>.:updates:.</h3>
-                    <table>
-                        <tr>
-                            <td rowspan="2">Nov 10, 2013</td>
-							<td>&nbsp</td>
-                        </tr>
-                        <tr>
-                            <td>        
-								<p>
-                                    updated the page with hacker book exchange information
-								</p>
-							</td>
-                        </tr>
-                        <tr>
-                            <td rowspan="2">Oct 20, 2013</td>
-							<td>&nbsp</td>
-                        </tr>
-                        <tr>
-                            <td>        
-								<p>circlecitycon will feature a lock pick village, brought to you by <br />
-        indiana's very own <a href="http://bloomingtonfools.org/">[fraternal order of locksport]</a>, <br />
-        also known as FOOLS. you can learn more about this fine organization <br />
-        <a href="http://www.bloomingtonfools.org/index.php?option=com_content&task=blogsection&id=3&Itemid=36">by clicking HERE</a>.
-								</p>
-							</td>
-                        </tr>
-                    </table>
-                </div>
-            </div>
+				
         </div><!-- end bodyContent div -->
 
     <?php include "includes/footer.php"; ?>

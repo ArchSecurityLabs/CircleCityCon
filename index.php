@@ -98,18 +98,18 @@ It will be an extremely eventful experience.
 
 	                <div>where:  Hyatt Regency Indianapolis</div>	            
 
-                    <div>cfp: nov 1, 2013 - jan 31,2014</div>
+                    <div>cfp: nov 1, 2013 - march 31,2014</div>
 
-                    <div>limited early ticket sales: november 1, 2013 - until sold out</div>
+                    <div><strike>limited early ticket sales: november 1, 2013 - until sold out</strike></div>
 
-                    <div>general admission ticket: jan 1, 2014</div>
+                    <div>general admission ticket: jan 1, 2014 - until sold out</div>
 
                 <br />
                 
                 <div>
                     <h3>.:tickets:.</h3>
                     <div>
-                        <a href="http://www.brownpapertickets.com/event/505248" title="tickets">CLICK HERE</a>
+                        general admission $150.00 - <a href="http://www.brownpapertickets.com/event/505248" title="tickets">CLICK HERE</a>
                         <br />
                         <br />
                     </div>
