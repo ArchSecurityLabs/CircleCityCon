@@ -20,6 +20,9 @@ ul li {
     display: inline-block;
     vertical-align: top;
 }
+ol {
+    font-family: Helvetica, Verdana, Arial, Sans-Serif;
+}
 
 li {
     text-align: left;
@@ -32,6 +35,7 @@ img {
 }
 p
 {
+    font-family: Helvetica, Verdana, Arial, Sans-Serif;
     padding-left: 15px;
     padding-right: 15px;
 }
@@ -335,6 +339,7 @@ table {
     border-color: #4cff00;
     display: list-item;
     list-style-type: asterisks;
+    font-family: Helvetica, Verdana, Arial, Sans-Serif;
 }
 
 /* new stuff */

@@ -43,6 +43,7 @@
 
                 <h2>.:Important Dates:.</h2>
                 <div class="boxedContent">
+                    <p>
                     <ul>
                         <li><b>Call for Papers Opens:</b> November 1st, 2013</li>
                         <li><b>Round 1 Notifications:</b> December 25th, 2013</li>
@@ -51,6 +52,7 @@
                         <li><b>Final Author Notifications:</b> Early April 2014 <strike>February 28th, 2014</strike> </li>
                         <li><b>Circle City Con:</b> Jun 13, 2014 - Jun 15, 2014</li>
                     </ul>
+                        </p>
                 </div>
 
 <h2> Topics and Format: </h2>
@@ -62,6 +64,7 @@
         We are looking for talks in the following areas (the examples provided with each topic are by no means a comprehensive list):
     </p>
         <div class="boxedContent">
+            <p>
             <br />
             <br />
             <b>Offense (Red Team)</b>  -- Offensive based talks involving malware, exploits, vulnerabilities, social engineering, and anything else related to attacks and offense.
@@ -77,6 +80,7 @@
             <br />
             <br />
             <b>Lightning Talk (20-30 min)</b> -- Short talks that take into account any of the above topics.
+            </p>
         </div> 
 <br />
 <h2>.:Submission Guidelines:.</h2>
@@ -86,15 +90,17 @@ We are requesting the following items for each submission:
 </p>
 
                 <div class="boxedContent">
-                    <ol>
-                        <li>A submission title as it will appear in the conference program.</li>
-                        <li>Notification if you are a full-time student at a University. We will be requesting proof of this later if your presentation is accepted.</li>
-                        <li>Author Information (this is how we'll contact you). <b>Reviewers will not see this information</b>.</li>
-                        <li>The topic that best meets your talk.</li>
-                        <li>An abstract for your talk and any keywords you think will help us get a better idea of what to expect. (200 words or less)</li>
-                        <li>A plain text file with a detailed outline of your talk. This is what you will upload.</li>
-                        <li>Your short author bio (as it should appear in the conference program) and whether or not this talk has been given before at other conferences as well as what conferences it was given at. This will go in the "Optional Comments" field. <b>Reviewers will not see this information</b>.</li>
-                    </ol>
+                    <p>
+                        <ol>
+                            <li>A submission title as it will appear in the conference program.</li>
+                            <li>Notification if you are a full-time student at a University. We will be requesting proof of this later if your presentation is accepted.</li>
+                            <li>Author Information (this is how we'll contact you). <b>Reviewers will not see this information</b>.</li>
+                            <li>The topic that best meets your talk.</li>
+                            <li>An abstract for your talk and any keywords you think will help us get a better idea of what to expect. (200 words or less)</li>
+                            <li>A plain text file with a detailed outline of your talk. This is what you will upload.</li>
+                            <li>Your short author bio (as it should appear in the conference program) and whether or not this talk has been given before at other conferences as well as what conferences it was given at. This will go in the "Optional Comments" field. <b>Reviewers will not see this information</b>.</li>
+                        </ol>
+                    </p>
                 </div>
     <p>
         If the submission is missing any of the above items, it will not be accepted. We reserve the right to throw out papers in which the author's personal information is contained in the abstract or plain text file. 

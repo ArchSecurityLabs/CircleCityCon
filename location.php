@@ -67,8 +67,8 @@
 					<a name="#locationInformation"></a>
 					<h2>.:hotel info:.</h2>
 					<p>
-						The conference will be held at the beautiful Hyatt Regency, located in downtown Indianapolis. This hotel is well within walking distance of numerous restaurants and bars.<br />
-						Inside the hotel there are also a few restaurants, a bar, Starbucks, and a couple of fast food places.<br />
+						The conference will be held at the beautiful Hyatt Regency, located in downtown Indianapolis. This hotel is well within walking distance of numerous restaurants and bars.
+						Inside the hotel there are also a few restaurants, a bar, Starbucks, and a couple of fast food places.
 						Additionally, the hotel is connected via a covered walkway to the Circle Center Mall (<a href="http://www.simon.com/mall/circle-centre" title="Circle Center Mall">found here</a>).
 					</p>
 					<br/><br />
@@ -125,9 +125,9 @@
 					<a name="#parkingInfo"></a>
 					<h2>.:parking info:.</h2>
 						<p>
-							valet parking - the hotel has valet available for those who want it.
+                                                    <b>valet parking</b> - the hotel has valet available for those who want it.
                             <br />
-							self-parking - there is self-parking at the hotel, and also around at parking garages close to the city. we can provide more information about this down the road.
+                                                    <b>self-parking</b> - there is self-parking at the hotel, and also around at parking garages close to the city. we can provide more information about this down the road.
 						</p>
 					<a name="#travelInfo"></a>
 					<h2>.:travel info:.</h2>
@@ -137,14 +137,14 @@
 							</p>
                             <h3>.:bus:.</h3>
                             <p>
-                                Megabus - this drops off a few short blocks from the hotel, <a href="http://www.megabus.com/" title="MegaBus">here</a> (http://www.megabus.com).
+                                <b>Megabus</b> - this drops off a few short blocks from the hotel, <a href="http://www.megabus.com/" title="MegaBus">here</a> (http://www.megabus.com).
 								<br />
-                                Greyhound - drops off a few short blocks from the hotel, <a href="http://www.greyhound.com/" title="Greyhound">here</a> (http://www.greyhound.com/).
+                                <b>Greyhound</b> - drops off a few short blocks from the hotel, <a href="http://www.greyhound.com/" title="Greyhound">here</a> (http://www.greyhound.com/).
                                 <br />
                             </p> 
                                 <h3>.:train:.</h3>
                                 <p>   
-                                    Amtrak - drops off a few short blocks from the hotel, <a href="http://www.amtrak.com/" title="Amtrack">here</a> (http://www.amtrak.com/).
+                                    <b>Amtrak</b> - drops off a few short blocks from the hotel, <a href="http://www.amtrak.com/" title="Amtrack">here</a> (http://www.amtrak.com/).
 							    </p>
 					<a name="#gettingAroundIndy"></a>
 					<h2>.:getting around indy:.</h2>

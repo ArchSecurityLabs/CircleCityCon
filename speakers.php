@@ -258,9 +258,10 @@
                 
                 <p>
                     Title:Seeing Purple: Hybrid Security Teams for the Enterprise<br />
-                    First Name: Belt<br />
-                    Last Name: Face<br />
+                    First Name: Mark<br />
+                    Last Name: Kikta<br />
                     Organization: VioPoint<br />
+                    Handle: Beltface<br />
                 </p>
                 <p>
                     The militaries of the world conduct wargames in order to increase

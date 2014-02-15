@@ -1,12 +1,12 @@
 <?php
    print '     <div id="footer">';
-   print '            <p>';
+   print '            ';
    print '                <!-- FOOTER -->';
    print '                <a href="http://twitter.com/circlecitycon">';
    print '                    <img src="./images/simple-twitter-icon-th.png" alt="twitter image" height="35px" width="35px" title="@CircleCityCon"></a>';
    print '                </br>';
    print '		    questions: feedback [AT] circlecitycon [D0T] com';
-   print '            </p>';
+   print '            ';
    print '        </div>';
    print '        <!--';
    print '===============================================================================';

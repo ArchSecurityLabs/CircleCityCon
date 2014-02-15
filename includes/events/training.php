@@ -29,11 +29,35 @@ Basic Linux skills are helpful. These will be covered quickly at the beginning o
 <h4>.:what to bring:.</h4>
 <p>
 Laptop capable of running 2 virtual machine at the same time (at least 2GB RAM, 4GB+ recommended)
-Vmware software (Fusion, Workstation, Player). Free trials are fine.
+VMWare software (Fusion, Workstation, Player). Free trials are fine.
 Kali Linux Vmware virtual machine from Kali.org
 </p>
 
 
+<br />
+---
+<br />
+
+
+<h3>.:hacking the raspberry pi:.</h3>
+<p>
+    First trainer: Branden Williams (<a href="https://twitter.com/BrandenWilliams">@BrandenWilliams</a>)
+    <br />
+    Second trainer: FrankTheTank (<a href="https://twitter.com/TheDevilsVoice">@TheDevilsVoice</a>) 
+</p>
+<h4>.:abstract:.</h4>
+<p>
+    Day one of the hackable Raspberry Pi Workshop will introduce the hardware and guide participants through setup of Raspbian and Kali with BerryBoot. Day two will expand upon the first day of setup. Add-on hardware will be introduced that will transform the device from standalone to mobile hacking platform.<br />
+    Day two content is still being created, but will be more advanced then day one.
+</p>
+<h4>.:prerequisites:.</h4> 
+<p>
+    Some previous knowledge of Linux is helpful but not mandatory. 
+</p>
+<h4>.:what to bring:.</h4>
+<p>
+    Your laptop
+</p>
 
 <br /><br />
 <p>.... more trainings to come.</p>

@@ -64,6 +64,7 @@
 
         <div id="bodyContent">
 
+            <h3>.:intro:.</h3>
             <p>
                     CircleCityCon is the first hacker con in Indianapolis.
             </p>
@@ -94,22 +95,22 @@ It will be an extremely eventful experience.
 
                 <div> 
 
-                    <div>when: june 13-15, 2014</div>
+                    <div><p>when: june 13-15, 2014</p></div>
 
-	                <div>where:  Hyatt Regency Indianapolis</div>	            
+	                <div><p>where:  Hyatt Regency Indianapolis</p></div>	            
 
-                    <div>cfp: nov 1, 2013 - march 31,2014</div>
+                    <div><p>cfp: nov 1, 2013 - march 31,2014</p></div>
 
-                    <div><strike>limited early ticket sales: november 1, 2013 - until sold out</strike></div>
+                    <div><p><strike>limited early ticket sales: november 1, 2013 - until sold out</strike></p></div>
 
-                    <div>general admission ticket: jan 1, 2014 - until sold out</div>
+                    <div><p>general admission ticket: jan 1, 2014 - until sold out</p></div>
 
                 <br />
                 
                 <div>
                     <h3>.:tickets:.</h3>
                     <div>
-                        general admission $150.00 - <a href="http://www.brownpapertickets.com/event/505248" title="tickets">CLICK HERE</a>
+                        <p>general admission $150.00 - <a href="http://www.brownpapertickets.com/event/505248" title="tickets">CLICK HERE</a></p>
                         <br />
                         <br />
                     </div>
@@ -117,18 +118,18 @@ It will be an extremely eventful experience.
                 <div>
                 <h3>.:room block:.</h3>
                 <div>
-                    You can get your room block <a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=10847722" title="room block">here</a> for June 12-15, 2014.
+                    <p>You can get your room block <a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=10847722" title="room block">here</a> for June 12-15, 2014.
                     <br />
                     block rate: $139.00
                     <br /><br />
-                    <a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=10847722" title="room block">CLICK HERE</a>
+                    <a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=10847722" title="room block">CLICK HERE</a></p>
                     <br /><br />
                 </div>
                 </div>
 
                 <div><h3>.:contests:.</h3></div>
 
-                    <div><a href="events.php">t-shirt art: Now! until January 31st, 2014</a></div>
+                <div><p><a href="events.php"><strike>t-shirt art: Now! until January 31st, 2014</strike></a> OVER</p></div>
                     <br />
                 </div>
             </div>
