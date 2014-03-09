@@ -59,8 +59,76 @@ Kali Linux Vmware virtual machine from Kali.org
     Your laptop
 </p>
 
+
+<br />
+---
+<br />
+
+<h3>.:From Data to Intelligence:. <br/>
+    .:Deriving Predictive Insights with OSINT:.</h3>
+<p>
+    trainer: Steven Fox (<a href="https://twitter.com/securelexicon">@securelexicon</a>)
+</p>
+<h4>.:abstract:.</h4>
+<p>
+    The Internet is replete with information resources which communicate information about people/organizations. These resources may have little value in isolation.  However, nothing exists in true isolation.  Recent high-profile breaches, and revelations of State secrets, demonstrate that insight of predictive value can be found by identifying the connections between these public information. Open Source Intelligence (OSINT) comprises an analytical process where this information is collected, distilled and deployed for use in a variety of scenarios. This process reveals the information associated with physical assets, enabling us to interface strategically with the world.
+ <br/>
+    Attendees will learn the fundamentals behind cyber intelligence collection and analysis, and how these current methods can be deployed in their organizations during this two day workshop. The first session covers the lifecycle, OSINT techniques, and introduces basic information gathering and analysis tools.   Attendees will learn the target of interest, along with the rules of engagement and the report template during this session.  Day two will find the investigative teams deep in reconnaissance of both Internet resources and clues shared during the workshop.  Participant teams will report actionable intelligence gathered during their investigation on the second session of the workshop.  These deliverables summarize how the teams applied their knowledge. The top scoring teams will be recognized!
+<br/>
+Note: This is not intended as an in-depth tutorial on any of the software applications introduced during the workshop.  Resources for individual exploration will be provided.
+</p>
+<h4>.:prerequisites:.</h4> 
+<p>
+    - A laptop with Maltego community edition and Casefile already installed and registered.
+    - Familiarity with search engine operators and social medi
+</p>
+<h4>.:what to bring:.</h4>
+<p>
+    Your laptop
+</p>
+
+<br />
+---
+<br />
+
+<h3>.:Hacking the Hustle Hands-On:. <br/>
+    .:Infosec Resume and Career Strategies Workshop:.</h3>
+<p>
+    trainer: Eve Adams (<a href="https://twitter.com/HackerHuntress">@HackerHuntress</a>)
+</p>
+<h4>.:abstract:.</h4>
+<p>
+    In this workshop, infosec recruiter Eve Adams (@HackerHuntress) will provide hands-on instruction in improving your resume, identifying the infosec job you want, and other career strategies for security professionals. You'll get an individualized look at your resume from a recruiter who knows the security market like no other, tips on finding the right opportunities and sussing out company culture, and plenty of time for lively, interactive Q&A. Bring your resume and, if possible, a laptop to this hands-on workshop!<br />
+</p>
+<h4>.:prerequisites:.</h4> 
+<p>
+    A resume. 
+</p>
+<h4>.:what to bring:.</h4>
+<p>
+    Your laptop with resume.
+</p>
+
+
 <br /><br />
-<p>.... more trainings to come.</p>
+---
+<br />
+
+
+<h3>.:Hacking ICS and Embedded for the Lulz:.<br/>
+	.:Deconstructing CVE-2013-2802:.</h3>
+<p>
+    trainer: Essobi (<a href="https://twitter.com/Essobi">@Essobi</a>)
+</p>
+<h4>.:abstract:.</h4>
+<p>
+    Essobi be walking through the initial discovery of the Sixnet 0day, binary protocol differential analysis, and building a Metasploit module to exploit it. Additional topics:  Firmware analysis, physical inspection for serial/JTAG, and native/cross-compiling exploitation payloads.
+	<br />
+</p>
+<h4>.:what to bring:.</h4>
+<p>
+    A laptop with Kali and the latest version of Binwalk installed to follow along
+</p>
 
 
 

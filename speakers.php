@@ -340,6 +340,267 @@
                     or more Lockpicking Villages at DerbyCon.
                 </p>
                 <br />
+                <br />
+                ---
+                <br />
+                <p>
+Title:Ten Commandments of Incident Response (For Hackers)<br />
+First Name:Lesley<br />
+Last Name:Carhart<br />
+Organization:Motorola Solutions<br />
+Topic(s):Defense (Blue Team)<br />
+</p>
+<p>
+Abstract:For many infosec professionals, a logical career move is to
+an incident response role; managing security incidents as well as the
+people working on them. The transition to red tape, bureaucracy, and
+human chaos can be baffling and very frustrating to the hacker
+mentality. This can lead to us to burn out, or in the worst case, fail
+at the job. Instead of discussing incident response methodology, this
+talk will cover ten essential 'lessons learned' about bridging the
+infosec world with the business world. Topics include triage,
+communication skills, risk assessment, building business
+relationships, and presenting our ideas and problems in a way that
+interest an organization. The lessons are corroborated with funny,
+sad, and surreal IR horror stories.
+</p>
+<br /><br />
+---
+<br />
+<p>
+Title:Moving the Industry Forward - The Purple Team<br />
+First Name:David<br />
+Last Name:Kennedy<br />
+Organization:TrustedSec<br />
+Topic(s):Hybrid Offense/Defense<br />
+</p>
+<p>
+Abstract:Let's start off with a strong statement - pentesting today
+isn't working. The blue team today isn't working. When a pentest
+occurs, even done by some of the industries leading folks and the
+quality is there - the pentesters go in, blow stuff up, write the
+report and leave a trail of destruction to be cleaned up until the
+next pentest. The next year, the same thing, the year after that the
+same thing. The blue team on the other hand is tasked with securing
+the entire company and one flaw exposes the entire organization to
+attack. I'm here to tell you that we can accomplish both and continue
+to strengthen how we defend and build detection - its called the
+Purple Team. Instead of doing covert testing, move to more of a
+blended approach and build out defenses against the entire lifecycle
+of a hack. This talk goes into how to structure the best and effective
+purple team within an organization as well as walk through a number of
+different attacks and how to defend them. Like my normal talks, I'll
+be going through the Social-Engineer Toolkit and how you can actively
+block its attacks and use some cutting edge things that haven't been
+discussed before on how to block the attacks in the toolkit.
+</p>
+<br /><br />
+---
+<br />
+<p>
+Title:The Challenge of Natural Security Systems<br />
+First Name:Rockie<br />
+Last Name:Brockway<br />
+Organization:Black Box Network Services<br />
+Topic(s):Hybrid Offense/Defense<br />
+</p>
+<p>
+Abstract:Static security models and "business as usual" directives
+have naturally resulted in a collective eyes wide shut mentality of
+organizational entropy. Organisms, as well as organizations, can only
+adapt to changing environments by leaving (or being forced from) their
+comfort zones. It should be obvious that today's threat landscape is
+changing at a breakneck pace, yet most organizations are seemingly
+content in adding "spend" to the annual budget for more systems that
+claim to protect against the latest FUD. This is not learning and
+without learning adaptation cannot occur. Challenges to the organism
+and organization that move them both out of their respective comfort
+zones are crucial for successful adaptation. This talk will explore
+these adaptation requirements in an effort to develop a framework for
+more naturally secure systems and organizations. At its conclusion it
+will present a challenge for all those willing to get out of their own
+respective comfort zones and organically contribute to naturally
+stronger systems and organizations.
+</p>
+<br /><br />
+---
+<br />
+<p>
+Title:Proactive Defense - Eliminating the Low Hanging Fruit<br />
+First Name:Matt<br />
+Last Name:Kelly<br />
+Organization:Crowe Horwath<br />
+Topic(s):Hybrid Offense/Defense<br />
+</p>
+<p>
+Abstract:Every year the pen testers (or bad guys) come in, they find
+that one missing 08_067 or default tomcat password and own the
+network. This talk was inspired by the frustration of constantly
+running into the same exact issues on penetration tests, and the huge
+challenge IT has in securing their network. This talk will go over the
+top security failures we find and more importantly easy things blue
+teams can do to get rid of the low hanging fruit and make your pen
+testers work hard to escalate privileges. This will not simply
+highlight vulnerability scans results, but things we see vulnerability
+scanners consistently miss. Things from network traffic manipulation
+(network protocols and client side services) and go over automated
+ways you can easily find those bad passwords, exploitable machines,
+default tomcats, SQL issues, reused local admin, and more, with some
+quick tricks to mitigate the problems that have plagued our industry
+for years. There is no blinky box involved; this talk is all about
+things security engineers can do quickly without breaking the budget,
+but still having a real impact on network security.
+</p>
+<br /><br />
+---
+<br />
+<p>
+Title:How Hackers for Charity (Possibly) Saved Me a LOT of Money<br />
+First Name:Branden<br />
+Last Name:Miller<br />
+First Name:Emily<br />
+Last Name:Miller<br />
+Topic(s):Lightning Talk (20-30 min)<br />
+</p>
+<p>
+Abstract:What do you do when your oldest child tells you she wants to
+be an artist/photographer? If you are me you panic under the weight of
+the idea that you will be supporting your kid for life! Then you use
+her determination to help others as a motivator and gently (re)focus
+her onto technology.
+</p>
+<br /><br />
+---
+<br />
+<p>
+Title:The TrueCrypt audit: How it happened and what we found<br />
+First Name:Kenneth<br />
+Last Name:White<br />
+Organization:Social & Scientific Systems<br />
+Topic(s):Education<br />
+</p>
+<p>
+Abstract:TrueCrypt is an open source file and whole disk encryption
+software package that runs on Windows, Macs, and Linux. It has been
+downloaded nearly 30 million times, and is one of the most popular
+security tools used by journalists, human rights activists, and
+countless organizations around the globe. In the 10 years since its
+original release by an anonymous development team, however, there had
+never been a formal cryptanalysis and security audit of the software.
+This presentation is about how the TrueCrypt Audit Project came to
+pass and how some of the best security minds, cryptographic engineers
+and privacy advocates in the world came together to successfully
+conduct a public, crowd-funded, open technical audit of this software.
+Details of our findings and the many lessons learned along the way
+will be presented. Any and all questions will be answered!
+</p>
+<br /><br />
+---
+<br />
+<p>
+Title:3 Is a Magic Number (or your Reality Check is About to Bounce)<br />
+First Name:Edward<br />
+Last Name:McCabe<br />
+Organization:Mainstream Security<br />
+Topic(s):Defense (Blue Team)<br />
+</p>
+<p>
+Abstract:Updates, changes, and game changers. How changes in
+Requirement 11.3 can potentially impact organizations as it relates to
+penetration testing and the overall PCI scope. Why its (always been)
+important to start moving away from a "check the box" environment.
+This informative and entertaining session will leave many (subject to
+PCI compliance) with a hefty to-do list.
+</p>
+---
+<p>
+Title:Proper Seasoning Improves Taste<br />
+First Name:James<br />
+Last Name:Siegel<br />
+Topic(s):Defense (Blue Team)<br />
+</p>
+<p>
+Abstract:Systems administration can be a difficult task, when given a
+large number of systems to maintain and keep secure. A security-minded
+administrator would need to have an eidetic memory or a list to keep
+track of all the log in credentials for those machines, but wait a
+list is a bad idea. Ensuring that they have the correct packages on
+them, and that a breach has not occurred and trusted configs have not
+been changed can be a job in and of itself. Amazingly enough, with
+some effort, and a little bit of some 'seasoning' some of these
+headaches can be remedied and a solution arrived at. Every chef knows
+that with just the right amount of 'Salt' a meal can be made right.
+This talk will discuss the use of Salt-Stack as a tool for systems
+administrators to improve their security posture and maintain those
+critical systems with fewer headaches going forward. Setup and
+operation of Salt-Stack will be discussed as well as some of the
+latest advances in Salt-Stack that do not require a Salt Minion on the
+receiving end. Just as Sodium helps the body retain fluids, let's
+discuss how Salt-Stack might help retain IP.
+</p>
+---
+<p>
+Title:How often should you perform a Penetration Test<br />
+First Name:Jason<br />
+Last Name:Samide<br />
+Organization:E-merging Technologies Group<br />
+Topic(s):Lightning Talk (20-30 min)<br />
+</p>
+<p>
+Abstract:How often should your organization conduct a penetration test
+and what is in scope? I get this question quite often from customers
+and colleagues. There really is no one correct answer but there is
+some guidelines I promote and adhere to. A penetration test or
+sometimes called a 'pentest' is a technique of assessing computer and
+network security by simulating real time attacks from external and
+internal positions. Penetration tests are simply a snap shot of your
+attack vectors. It is a means of identifying your high-risk
+vulnerabilities and assessing the business impact should an exploit
+occur. A penetration test is typically done using commercial and
+freeware tools, followed up by a human that verifies vulnerabilities
+and attempts to exploit systems or gain escalated privileges. This is
+the primary difference between a Penetration test and a Vulnerability
+scan. In my professional opinion, anyone in the organization can run a
+scan by hitting the 'enter' button. I highly recommend vulnerability
+scans to be run from time to time but they are not a substitute for a
+true penetration test, which does require the human element. A good
+'pentester' will understand what the vulnerability and exploit is
+capable of doing. A great 'pentester' will write their own exploit to
+attack a system. With threat landscaping changing daily I am not
+suggesting you perform a 'pentest' daily or weekly but it is very
+necessary to complete one.
+</p>
+<br /><br />
+---
+<br />
+<p>
+Title:Tape Loops for Industrial Control Protocols<br />
+First Name:K. Reid<br />
+Last Name:Wightman<br />
+Organization:Cyber Pacifists<br />
+Topic(s):Offense (Red Team)<br />
+</p>
+<p>
+Abstract:In the last twenty years, industrial control systems have
+transitioned from esoteric serial networks to slightly less esoteric
+Ethernet and IP-based networks. Unfortunately the increased
+connectivity has not included an increase in the basic security
+posture of industrial protocols.
+</p>
+<p>
+In the 2010s we are now seeing nearly weekly demonstrations of the
+lack of security in the protocols that runs our power grid, water
+supplies, and gas pipelines.
+</p>
+<p>
+In this talk we demonstrate a new class of attack. While many hackers
+are keen to demonstrate malicious control of control systems networks,
+we instead opt to show how easy it is to hide the effects of malicious
+control from the operators.
+</p>
+<br /><br />
+---
+<br />
             </div>
 
     <?php include "includes/footer.php"; ?>

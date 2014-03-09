@@ -60,17 +60,44 @@
 						if you have any questions please contact: sponsors [AT] circlecitycon [D0T] com
 					</p>
 					</div>
-					<p>
-						<div class="boxedContent">
-								<h2>.:sponsor types:.</h2>
-								<a name="#sponsorType"><a/>
-									<a href="#diamondSponsor" title="Diamond Sponsor">Diamond</a><br />
-									<a href="#partySponsor" title="Party Sponsor">Party</a><br />
-									<a href="#goldSponsor" title="Gold Sponsor">Gold</a><br />
-									<a href="#silverSponsor" title="Silver Sponsor">Silver</a><br />
-									<a href="#bronzeSponsor" title="Bronze Sponsor">Bronze</a><br />
-						</div>
-					</p>
+                                        <h3>.:diamond:.</h3>
+                                        <p>
+                                            (pending..)
+                                        <br />
+                                        ---
+                                        </p>
+                                        <h3>.:party:.</h3>
+                                        <p>
+                                            (pending..)
+                                        <br />
+                                        ---
+                                        </p>
+                                        <h3>.:gold:.</h3>
+                                        <p>
+                                            (pending..)
+                                        <br />
+                                        ---
+                                        </p>
+                                        <h3>.:silver:.</h3>
+                                        <p>
+                                            (pending..)
+                                        <br />
+                                        ---                                            
+                                        </p>
+                                        <h3>.:bronze:.</h3>
+                                        <p>
+                                                <br />
+                                                                    
+                                                                    <a href="http://nostarch.com" target="_black"><img src="images/sponsors/bronze/nsp_logo_black.png" title="No Starch Press Logo" alt="No Starch Press Logo"/></a>
+                                                                    <br />
+                                                                    <strong>url:</strong> <a href="http://nostarch.com" target="_black">http://nostarch.com</a>
+                                                                    <br />
+                                                                    <strong>twitter:</strong> <a href="https://twitter.com/nostarch" target="_black">https://twitter.com/nostarch</a>
+                                                                    <br /><br />
+                                                                    No Starch Press publishes the finest in geek entertainment. We focus on security, programming, open source, LEGO, and science and math. Our titles have personality and attitude, our authors are passionate about their subjects, and we read and edit every book that bears our name. 
+                                        <br />
+                                        ---
+                                        </p>
 				
 				</div><!-- end rightSidedColumn -->
 				<a name="#sponsorDescription"></a>
