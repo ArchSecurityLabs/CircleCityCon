@@ -13,23 +13,14 @@
 
 <div id="bodyWrapper">
     <?php include "includes/navbar.php"; ?>
-
     <?php include "includes/header.php"; ?>
-
             <div id="breadCrumbsWrapper">
-
                 <p>
-
                     <a href="index.php" title="home">home</a> &gt; training
-
                 </p>
-
             </div>
-
             <!--
-
     ===============================================================================
-
     -->
 
             <div id="bodyContent">
