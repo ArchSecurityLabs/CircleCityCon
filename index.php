@@ -50,7 +50,7 @@
 
             <p>
 
-                <a href="index.php" title="home">home</a> >
+                <a href="index.php" title="home">home</a> &gt;
 
             </p>
 
