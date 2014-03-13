@@ -9,8 +9,8 @@
    print '<li><a href="sponsors.php">sponsors</a></li>';
    print '<li><a href="location.php">location</a></li>';
    print '<li><a href="events.php">events</a></li>';
+   print '<li><a href="training.php">training</a></li>';
    print '<li><a href="about.php">about</a></li>';
-   print '<li><a href="archive.php">archive</a></li>';
    print '</ul>';
    print '</div>';
 ?>

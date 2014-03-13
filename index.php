@@ -50,7 +50,7 @@
 
             <p>
 
-                <a href="index.php" title="home">home</a> >
+                <a href="index.php" title="home">home</a> &gt;
 
             </p>
 
@@ -127,9 +127,6 @@ It will be an extremely eventful experience.
                 </div>
                 </div>
 
-                <div><h3>.:contests:.</h3></div>
-
-                <div><p><a href="events.php"><strike>t-shirt art: Now! until January 31st, 2014</strike></a> OVER</p></div>
                     <br />
                 </div>
             </div>
