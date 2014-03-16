@@ -33,7 +33,7 @@
 
             <p>
 
-                <a href="index.html" title="home">home</a> &gt; location
+                <a href="index.php" title="home">home</a> &gt; location
 
             </p>
 

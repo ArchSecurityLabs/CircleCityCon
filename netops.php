@@ -20,7 +20,7 @@
 
                 <p>
 
-                    <a href="index.php" title="home">home</a> &gt; template
+                    <a href="index.php" title="home">home</a> &gt; NetOps
 
                 </p>
 
@@ -33,8 +33,15 @@
     -->
 
             <div id="bodyContent">
-
-                Sample body content
+                <a href="https://github.com/ArchSecurityLabs/CircleCityCon">GitHub Repository for this site</a>
+                <br />
+                <a href="https://github.com/ArchSecurityLabs/CircleCityCon/tree/master/images/hotelImages">Hotel pics</a>
+                <br />
+                <a href="http://www.flickr.com/photos/7912503@N08/sets/72157642440170533">Some more pics of the Con Hotel</a>
+                <br />
+                <a href="http://circlecitycon.com/netops/bus_reqsv1.odt">Business requirements form</a>
+                <br />
+                <a href="http://circlecitycon.com/netops/CircleCityCon_network_Diagrams.odg">network drawings</a>
             </div>
 
     <?php include "includes/footer.php"; ?>
