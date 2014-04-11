@@ -192,27 +192,6 @@ Training):</P>
     <tr><td>1 (optional)</td><td>Bluetooth 4.0 USB Module</td><td>$10.95</td><td><a href="http://www.adafruit.com/products/1327 ">http://www.adafruit.com/products/1327</a></td></tr>
 </table>	
 
-
-
-	
-
-
-
-1
-	
-
-
-
-
-	
-
-
-	
-
-
-</p>
-
-
 <br />
 ---
 <br />
