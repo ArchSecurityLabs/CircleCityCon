@@ -154,26 +154,19 @@ Training):</P>
 <P STYLE="margin-bottom: 0in"><BR>
 </P>
 <P STYLE="margin-bottom: 0in">Turning the Raspi into a platform for
-mobile electromagnetic warfare. 
+mobile electromagnetic warfare. We will do some "war walking" in the area, including 
+collection and post-processing of data, so be sure to charge those batteries. ;)
 </P>
 <P STYLE="margin-bottom: 0in"><BR>
 </P>
 <UL>
-	<LI><P STYLE="margin-bottom: 0in">Setting up a wireless network
-	connection on the Raspberry Pi.</P>
-	<LI><P STYLE="margin-bottom: 0in">Setting up a GPS unit, using gpsd.
-		</P>
-	<LI><P STYLE="margin-bottom: 0in">Recon with kismet and aircrack,
-	creating KML files and generating maps. 
-	</P>
-	<LI><P STYLE="margin-bottom: 0in">Accessing WEP and WPA/WPA2
-	networks.  
-	</P>
-	<LI><P STYLE="margin-bottom: 0in">Setting up Software Defined Radio,
-	installing and using gqrx.  
-	</P>
-	<LI><P STYLE="margin-bottom: 0in">Fun with Bluetooth. 
-	</P>
+	
+	<LI><P STYLE="margin-bottom: 0in">Setting up a GPS unit, using gpsd.</P>
+	<LI><P STYLE="margin-bottom: 0in">Recon with kismet and aircrack, creating KML files and generating maps. </P>
+	<LI><P STYLE="margin-bottom: 0in">Accessing WEP and WPA/WPA2 networks.  </P>
+	<LI><P STYLE="margin-bottom: 0in">Setting up Software Defined Radio, installing and using gqrx.</P>
+        <LI><P STYLE="margin-bottom: 0in">Setting up a wireless network connection on the Raspberry Pi. (optional)</P>
+	<LI><P STYLE="margin-bottom: 0in">Fun with Bluetooth. (optional, time permitting)</P>
 	<LI><P STYLE="margin-bottom: 0in"></P>
 </UL>
 <P STYLE="margin-bottom: 0in"><BR>
@@ -182,6 +175,7 @@ mobile electromagnetic warfare.
 Training):</P>
 <P STYLE="margin-bottom: 0in"><BR>
 </P>
+<<<<<<< HEAD
 <TABLE CELLPADDING=4 CELLSPACING=0>
 	<COL WIDTH=46>
 	<COL WIDTH=270>
@@ -300,7 +294,24 @@ Training):</P>
 	</TR>
 </TABLE>
 </p>
+=======
+>>>>>>> 16b1bfe4c09fa5764bf07c82ff4eaacc163d2622
 
+<table>
+    <th>Qty</th><th>Item</th><th>Cost</th><th>URL</th>
+    <tr><td>1</td><td>Powered USB Hub</td><td>$22</td><td>http://www.officedepot.com/a/products/434959/Ativa-Mobil-IT-7-Port-USB/ 
+            <br />http://shop.pimoroni.com/products/pihub 
+        <br />http://www.adafruit.com/products/961</td>
+    </tr>
+    <tr><td>1</td><td>BU-353 USB Globalsat GPS Receiver</td><td>$35.00</td><td>Ebay, Amazon, etc.</td></tr>
+    <tr><td>1</td><td>Software Defined Radio Receiver USB Stick - RTL2832 w/R820T</td><td>$22.50</td><td><a href="http://www.adafruit.com/products/1497"> http://www.adafruit.com/products/1497</a></td></tr>
+    <tr><td>1</td><td>ZAGG ZSPARQ600SLV 6000</td><td>$60</td><td>Amazon (Prime gives you $40 off) <a href="http://amzn.to/R9CAbA">http://amzn.to/R9CAbA</a></td></tr>
+    <tr><td>1</td><td>Alfa AWUS051NH 500mW</td><td>$40</td><td>Amazon <a href="http://amzn.to/1iBALtS">http://amzn.to/1iBALtS</a></td></tr>
+    <tr><td>1 (optional)</td><td>Miniature WiFi (802.11b/g/n) Module</td><td>$11.95</td>
+    <td><a href="http://www.adafruit.com/products/814">http://www.adafruit.com/products/814</a></td>
+    </tr>
+    <tr><td>1 (optional)</td><td>Bluetooth 4.0 USB Module</td><td>$10.95</td><td><a href="http://www.adafruit.com/products/1327 ">http://www.adafruit.com/products/1327</a></td></tr>
+</table>	
 
 <br />
 ---

@@ -20,7 +20,7 @@
 
                 <p>
 
-                    <a href="index.php" title="home">home</a> &gt; template
+                    <a href="index.php" title="home">home</a> &gt; network
 
                 </p>
 
@@ -33,8 +33,47 @@
     -->
 
             <div id="bodyContent">
+                
+Net Ops Google Group: "CircleCityConNetOps"
 
-                Sample body content
+<h2>.:lab:.</h2>
+Click here to view the latest lab diagram:
+<a href="images/lab_network.jpeg"><img src="images/lab_network_thumb.jpeg" alt="lab diagram" height="100" width="100"></img></a>
+
+Hardware List:
+
+<table>
+    <tr><td>hostname</td><td>IP</td><td>Description</td></tr>
+    <tr><td>nocserver-1</td><td>10.10.8.20</td><td>Dell Optiplex 755</td></tr>
+    <tr><td>firewall-1</td><td>10.10.8.30</td><td>Dell Optiplex 755</td></tr>
+    <tr><td>switch-1</td><td></td><td>Cisco 2950</td></tr>
+</table>
+
+
+To Do List:
+<li>Need a firewall capable of rate limiting, OR set up PF on the firewall box to prevent getting remote CTF server blacklisted by hosting ISP.</li>
+<li>Add 3TB drive to the NOC server</li>
+<li>Both Firewall and NOC server need more gigabit cards</li>
+<li>Add Rapsbian Mirror to the NOC server</li>
+<li>Add Raspberry Pi to the lab network</li>
+<li>Connect console on Cisco 2950</li>
+
+<h2>.:con network:.</h2>
+
+
+
+            <div id="bodyContent">
+                <a href="https://github.com/ArchSecurityLabs/CircleCityCon">GitHub Repository for this site</a>
+                <br />
+                <a href="https://github.com/ArchSecurityLabs/CircleCityCon/tree/master/images/hotelImages">Hotel pics</a>
+                <br />
+                <a href="http://www.flickr.com/photos/7912503@N08/sets/72157642440170533">Some more pics of the Con Hotel</a>
+                <br />
+                <a href="http://circlecitycon.com/netops/bus_reqsv1.odt">Business requirements form</a>
+                <br />
+                <a href="http://circlecitycon.com/netops/CircleCityCon_network_Diagrams.odg">network drawings</a>
+            </div>
+
             </div>
 
     <?php include "includes/footer.php"; ?>
