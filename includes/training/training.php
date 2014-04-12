@@ -12,5 +12,7 @@
     
     <br/><br />
     We will attempt to stream, or record each training, but it is up to each trainer.    
+    <br/>
+    Trainings can be picked up here: <a href="http://www.brownpapertickets.com/event/639035">http://www.brownpapertickets.com/event/639035</a>
 </p>
 <br/><br/><br/>

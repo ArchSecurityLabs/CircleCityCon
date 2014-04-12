@@ -43,6 +43,7 @@
                         <li><a href="#drunktalks" title="Drunk Talks">drunk talks</a></li>
                         <li><a href="#crashandcompile" title="Crash and Compile">crash and compile</a></li>
                         <li><a href="#trainings" title="Trainings">training</a></li>
+                        <li><a href="#villages" title="Villages">villages</a></li>
    					</ul>
 				</div>
 				<div class="rightSidedColumn">
@@ -59,6 +60,7 @@
                                                 
                     <?php include "includes/events/training.php"?>
                                                 
+                    <?php include "includes/events/villages.php"?>
 						</div>
 					</div>
 				

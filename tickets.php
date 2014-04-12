@@ -84,6 +84,37 @@
                     <a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&eventID=10847722" title="room block">CLICK HERE</a>
                 </p>
                 </div>
+                <br /><br />
+                
+                <h3>.:press passes:.</h3>
+                <p>
+                    CircleCityCon issues a limited amount of press passes for qualified bloggers, podcasters, and journalists.  These passes are non-transferable without consent from CircleCityCon first.  Registration information is not shared with attendees or sponsors.<br/><br/>
+
+                    Registration:<br/><br/>
+                    Full Name (We will need a full name at some point, as we check ID to validate identity for the press pass)<br/>
+                    Job Title<br/>
+                    Publication/Company<br/>
+                    Direct links to recent articles you've written pertaining to computer security, hacking, or previous coverage of related conferences<br/>
+                    Phone number<br/>
+                    Email address<br/>
+
+                    Press Expectations:<br/><br/>
+
+                    CircleCityCon requests all attendees including press and sponsors respect the personal privacy of all conference attendees.  This includes taking photographs and/or videos of attendees without permission or identifying attendees on a public forum without their consent.  Violators may be removed from the conference and future access to the event may be limited.<br/><br/>
+
+                    The following guidelines should be followed at all times:<br/><br/>
+
+                    Identify yourself as press or media via the conference badge.<br/><br/>
+                    Give a verbal introduction of who you are, where you work for, and how the information will be used.<br/><br/>
+                    Receive consent before beginning any type of interview and receive consent for using an attendee's name (real or pseudonym) in video, audio, or written publication.<br/><br/>
+
+                    Ensure you receive permission before recording, quoting, or taking a picture of anyone... this includes people in the background.<br/><br/>
+                    You may not record or take pictures within the presentation rooms or training rooms.  Footage, including audio, of any talks may only be used from the official recordings.  While site embedded or links to the full version of the official recordings are allowed, any partial usage of the footage, including audio, must receive permission from the Presenter(s) first (in our experience, most speakers will gladly allow permission to use their talks.)  Full credit to the speaker and the event must be given.<br/><br/>
+
+                    Any violation of these policies may result in removal from the event and limited access to future events.<br/><br/>
+                    
+                    Please contact us at feedback [AT] circlecitycon [D0T] com for more information. 
+                </p>
             </div>
 
     <?php include "includes/footer.php"; ?>

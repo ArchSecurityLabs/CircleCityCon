@@ -182,7 +182,7 @@ mobile electromagnetic warfare.
 Training):</P>
 <P STYLE="margin-bottom: 0in"><BR>
 </P>
-<TABLE WIDTH=665 CELLPADDING=4 CELLSPACING=0>
+<TABLE CELLPADDING=4 CELLSPACING=0>
 	<COL WIDTH=46>
 	<COL WIDTH=270>
 	<COL WIDTH=44>

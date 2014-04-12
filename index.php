@@ -126,6 +126,11 @@ It will be an extremely eventful experience.
                     <br /><br />
                 </div>
                 </div>
+                <h3>.:training registration:.</h3>
+                <div>
+                    <p>We have limited free training space, and is on a first come first serve basis. </p>
+                    <p>Registration can be found here: <a href="http://www.brownpapertickets.com/event/639035">http://www.brownpapertickets.com/event/639035</a></p>
+                </div>
 
                     <br />
                 </div>
