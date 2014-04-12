@@ -154,26 +154,19 @@ Training):</P>
 <P STYLE="margin-bottom: 0in"><BR>
 </P>
 <P STYLE="margin-bottom: 0in">Turning the Raspi into a platform for
-mobile electromagnetic warfare. 
+mobile electromagnetic warfare. We will do some "war walking" in the area, including 
+collection and post-processing of data, so be sure to charge those batteries. ;)
 </P>
 <P STYLE="margin-bottom: 0in"><BR>
 </P>
 <UL>
-	<LI><P STYLE="margin-bottom: 0in">Setting up a wireless network
-	connection on the Raspberry Pi.</P>
-	<LI><P STYLE="margin-bottom: 0in">Setting up a GPS unit, using gpsd.
-		</P>
-	<LI><P STYLE="margin-bottom: 0in">Recon with kismet and aircrack,
-	creating KML files and generating maps. 
-	</P>
-	<LI><P STYLE="margin-bottom: 0in">Accessing WEP and WPA/WPA2
-	networks.  
-	</P>
-	<LI><P STYLE="margin-bottom: 0in">Setting up Software Defined Radio,
-	installing and using gqrx.  
-	</P>
-	<LI><P STYLE="margin-bottom: 0in">Fun with Bluetooth. 
-	</P>
+	
+	<LI><P STYLE="margin-bottom: 0in">Setting up a GPS unit, using gpsd.</P>
+	<LI><P STYLE="margin-bottom: 0in">Recon with kismet and aircrack, creating KML files and generating maps. </P>
+	<LI><P STYLE="margin-bottom: 0in">Accessing WEP and WPA/WPA2 networks.  </P>
+	<LI><P STYLE="margin-bottom: 0in">Setting up Software Defined Radio, installing and using gqrx.</P>
+        <LI><P STYLE="margin-bottom: 0in">Setting up a wireless network connection on the Raspberry Pi. (optional)</P>
+	<LI><P STYLE="margin-bottom: 0in">Fun with Bluetooth. (optional, time permitting)</P>
 	<LI><P STYLE="margin-bottom: 0in"></P>
 </UL>
 <P STYLE="margin-bottom: 0in"><BR>
@@ -182,125 +175,22 @@ mobile electromagnetic warfare.
 Training):</P>
 <P STYLE="margin-bottom: 0in"><BR>
 </P>
-<TABLE WIDTH=665 CELLPADDING=4 CELLSPACING=0>
-	<COL WIDTH=46>
-	<COL WIDTH=270>
-	<COL WIDTH=44>
-	<COL WIDTH=271>
-	<TR VALIGN=TOP>
-		<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.04in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
-			<P><FONT SIZE=2>Qty</FONT></P>
-		</TD>
-		<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.04in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
-			<P><FONT SIZE=2>Item</FONT></P>
-		</TD>
-		<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.04in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
-			<P><FONT SIZE=2>Cost</FONT></P>
-		</TD>
-		<TD STYLE="border: 1px solid #000000">
-			<P><FONT SIZE=2>URL</FONT></P>
-		</TD>
-	</TR>
-	<TR VALIGN=TOP>
-		<TD STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
-			<P><FONT SIZE=2 STYLE="font-size: 9pt">1</FONT></P>
-		</TD>
-		<TD STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
-			<P><FONT SIZE=2 STYLE="font-size: 9pt">Powered USB Hub</FONT></P>
-		</TD>
-		<TD STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
-			<P><FONT SIZE=2 STYLE="font-size: 9pt">$22</FONT></P>
-		</TD>
-		<TD STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0.04in">
-			<P STYLE="margin-bottom: 0in"><FONT COLOR="#0563c1"><U><A HREF="http://www.officedepot.com/a/products/434959/Ativa-Mobil-IT-7-Port-USB/" TARGET="_top"><FONT SIZE=2 STYLE="font-size: 9pt">http://www.officedepot.com/a/products/434959/Ativa-Mobil-IT-7-Port-USB/</FONT></A></U></FONT><FONT SIZE=2 STYLE="font-size: 9pt">
-			</FONT>
-			</P>
-			<P STYLE="margin-bottom: 0in"><BR>
-			</P>
-			<P STYLE="margin-bottom: 0in"><FONT COLOR="#0563c1"><U><A HREF="http://shop.pimoroni.com/products/pihub" TARGET="_top"><FONT SIZE=2 STYLE="font-size: 9pt">http://shop.pimoroni.com/products/pihub</FONT></A></U></FONT></P>
-			<P STYLE="margin-bottom: 0in"><BR>
-			</P>
-			<P><FONT COLOR="#0563c1"><U><A HREF="http://www.adafruit.com/products/961" TARGET="_top"><FONT SIZE=2 STYLE="font-size: 9pt">http://www.adafruit.com/products/961</FONT></A></U></FONT><FONT SIZE=2 STYLE="font-size: 9pt">
-			</FONT>
-			</P>
-		</TD>
-	</TR>
-	<TR VALIGN=TOP>
-		<TD STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
-			<P><FONT SIZE=2 STYLE="font-size: 9pt">1</FONT></P>
-		</TD>
-		<TD STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
-			<P STYLE="margin-bottom: 0in"><FONT COLOR="#0563c1"><A HREF="http://www.adafruit.com/products/814" TARGET="_top"><FONT COLOR="#000000"><FONT SIZE=2 STYLE="font-size: 9pt"><SPAN STYLE="text-decoration: none">Miniature
-			WiFi (802.11b/g/n) Module</SPAN></FONT></FONT></A></FONT></P>
-			<P><BR>
-			</P>
-		</TD>
-		<TD STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
-			<P><FONT SIZE=2 STYLE="font-size: 9pt">$11.95 </FONT>
-			</P>
-		</TD>
-		<TD STYLE="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0.04in">
-			<P><FONT COLOR="#0563c1"><U><A HREF="http://www.adafruit.com/products/814" TARGET="_top"><FONT SIZE=2 STYLE="font-size: 9pt">http://www.adafruit.com/products/814</FONT></A></U></FONT><FONT SIZE=2 STYLE="font-size: 9pt">
-			</FONT>
-			</P>
-		</TD>
-	</TR>
-	<TR VALIGN=TOP>
-		<TD STYLE="border: 1px solid #000000">
-			<P><FONT SIZE=2 STYLE="font-size: 9pt">1</FONT></P>
-		</TD>
-		<TD STYLE="border: 1px solid #000000">
-			<P><STRONG><FONT SIZE=2 STYLE="font-size: 9pt"><SPAN STYLE="font-weight: normal">BU-353
-			USB Globalsat GPS Receiver</SPAN></FONT></STRONG></P>
-		</TD>
-		<TD STYLE="border: 1px solid #000000">
-			<P><FONT SIZE=2 STYLE="font-size: 9pt">$35.00</FONT></P>
-		</TD>
-		<TD STYLE="border: 1px solid #000000">
-			<P><FONT SIZE=2 STYLE="font-size: 9pt">Ebay, Amazon, etc.</FONT></P>
-		</TD>
-	</TR>
-	<TR VALIGN=TOP>
-		<TD STYLE="border: 1px solid #000000">
-			<P><FONT SIZE=2 STYLE="font-size: 9pt">1</FONT></P>
-		</TD>
-		<TD STYLE="border: 1px solid #000000">
-			<P STYLE="margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 9pt">Software
-			Defined Radio Receiver USB Stick - RTL2832 w/R820T</FONT></P>
-			<P><BR>
-			</P>
-		</TD>
-		<TD STYLE="border: 1px solid #000000">
-			<P><FONT SIZE=2 STYLE="font-size: 9pt">$22.50</FONT></P>
-		</TD>
-		<TD STYLE="border: 1px solid #000000">
-			<P><FONT SIZE=2 STYLE="font-size: 9pt"><A HREF="http://www.adafruit.com/products/1497">http://www.adafruit.com/products/1497</A>
-			</FONT>
-			</P>
-		</TD>
-	</TR>
-	<TR VALIGN=TOP>
-		<TD STYLE="border: 1px solid #000000">
-			<P><FONT SIZE=2 STYLE="font-size: 9pt">1</FONT></P>
-		</TD>
-		<TD STYLE="border: 1px solid #000000">
-			<P STYLE="margin-bottom: 0in"><FONT SIZE=2 STYLE="font-size: 9pt">Bluetooth
-			4.0 USB Module</FONT></P>
-			<P><BR>
-			</P>
-		</TD>
-		<TD STYLE="border: 1px solid #000000">
-			<P><FONT SIZE=2 STYLE="font-size: 9pt">$10.95</FONT></P>
-		</TD>
-		<TD STYLE="border: 1px solid #000000">
-			<P><FONT SIZE=2 STYLE="font-size: 9pt"><A HREF="http://www.adafruit.com/products/1327">http://www.adafruit.com/products/1327</A>
-			</FONT>
-			</P>
-		</TD>
-	</TR>
-</TABLE>
-</p>
 
+<table>
+    <th>Qty</th><th>Item</th><th>Cost</th><th>URL</th>
+    <tr><td>1</td><td>Powered USB Hub</td><td>$22</td><td>http://www.officedepot.com/a/products/434959/Ativa-Mobil-IT-7-Port-USB/ 
+            <br />http://shop.pimoroni.com/products/pihub 
+        <br />http://www.adafruit.com/products/961</td>
+    </tr>
+    <tr><td>1</td><td>BU-353 USB Globalsat GPS Receiver</td><td>$35.00</td><td>Ebay, Amazon, etc.</td></tr>
+    <tr><td>1</td><td>Software Defined Radio Receiver USB Stick - RTL2832 w/R820T</td><td>$22.50</td><td><a href="http://www.adafruit.com/products/1497"> http://www.adafruit.com/products/1497</a></td></tr>
+    <tr><td>1</td><td>ZAGG ZSPARQ600SLV 6000</td><td>$60</td><td>Amazon (Prime gives you $40 off) <a href="http://amzn.to/R9CAbA">http://amzn.to/R9CAbA</a></td></tr>
+    <tr><td>1</td><td>Alfa AWUS051NH 500mW</td><td>$40</td><td>Amazon <a href="http://amzn.to/1iBALtS">http://amzn.to/1iBALtS</a></td></tr>
+    <tr><td>1 (optional)</td><td>Miniature WiFi (802.11b/g/n) Module</td><td>$11.95</td>
+    <td><a href="http://www.adafruit.com/products/814">http://www.adafruit.com/products/814</a></td>
+    </tr>
+    <tr><td>1 (optional)</td><td>Bluetooth 4.0 USB Module</td><td>$10.95</td><td><a href="http://www.adafruit.com/products/1327 ">http://www.adafruit.com/products/1327</a></td></tr>
+</table>	
 
 <br />
 ---
